@@ -1,74 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 舔狗马的blog</title>
-    
-    
-    
+    <title>Posts on 舔狗马</title>
     <link>/post/</link>
-    <description>Recent content in Posts on 舔狗马的blog</description>
+    <description>Recent content in Posts on 舔狗马</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>nothing copyright</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello Friend</title>
-      <link>/post/hello/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Markdown Syntax Guide</title>
+      <link>/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/hello/</guid>
-      <description>
-        
-          &lt;img src=&#34;/img/hello.jpg&#34;/&gt;
-          
-        
-        
-        
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
-          
-        
-        </description>
+      <guid>/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>K8s-hello3</title>
-      <link>/post/k8s/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Placeholder Text</title>
+      <link>/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/k8s/</guid>
-      <description>
-        
-          &lt;img src=&#34;/img/hello.jpg&#34;/&gt;
-          
-        
-        
-        
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
-          
-        
-        </description>
+      <guid>/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>K9s</title>
-      <link>/post/k9s/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Math Typesetting</title>
+      <link>/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/k9s/</guid>
-      <description>
-        
-          &lt;img src=&#34;/img/hello.jpg&#34;/&gt;
-          
-        
-        
-        
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
-          
-        
-        </description>
+      <guid>/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
   </channel>
