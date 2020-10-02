@@ -21,17 +21,6 @@
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/placeholder-text/</guid>
-      <description>+++
-thumbnail = &amp;ldquo;images/building.png&amp;rdquo;
- </description>
-    </item>
-    
-    <item>
       <title>Math Typesetting</title>
       <link>/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
@@ -47,6 +36,15 @@ thumbnail = &amp;ldquo;images/building.png&amp;rdquo;
       
       <guid>/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>/post/happy/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/happy/</guid>
+      <description></description>
     </item>
     
     <item>
